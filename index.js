@@ -88,5 +88,3 @@ app.get('/', (req, res) =>{
 app.listen(port,() =>{
     console.log('Running server on port', port);
 })
-//SRACLszLww1pP8aD
-//mydbuser2
